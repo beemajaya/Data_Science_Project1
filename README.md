@@ -19,7 +19,7 @@ The project involved gathering the data, dealing with missing values and categor
   reviews.csv - dataset including review information on AirBnB listings
   
 ## Results:
-  A summary of results can be found in Medium artile:  and within the Jupyter notebook.
+  A summary of results can be found in Medium artile:https://beemajaya.medium.com/the-effect-of-review-scores-on-your-airbnb-99c15c0bd37b  and within the Jupyter notebook.
   
     1. Does price of the properties infuence the review score?
   ANS
