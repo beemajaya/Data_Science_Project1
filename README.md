@@ -32,3 +32,7 @@ The project involved gathering the data, dealing with missing values and categor
     1. What is the relationship between reviews and booked frequency?
    ANS:
     No, there appears to be no relationship between review score and availability.
+    
+    
+## Acknowledgements
+Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle
